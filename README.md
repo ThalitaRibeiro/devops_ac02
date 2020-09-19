@@ -1,1 +1,2 @@
-# devops_ac02
+Thalita Ribeiro Vicente
+RA 1902907
